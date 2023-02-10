@@ -1,0 +1,13 @@
+.movieCard {
+  background-color: rgb(26, 26, 26);
+  color: white;
+  border-radius: 5px;
+border-color: black;
+width: 300px;
+margin-bottom: 30px;
+}
+
+.movieImg {
+width: 300px;
+
+}
